@@ -1,0 +1,1 @@
+["Angry", "Romantic", "Fear", "Happy", "Sad", "Surprise", "Neutral"]
